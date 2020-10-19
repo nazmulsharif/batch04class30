@@ -23,6 +23,9 @@
         <a class="nav-link" href="add.php">Add Member</a>
       </li>
       
+        <li class="nav-item">
+        <a class="nav-link" href="info.php">Member Information</a>
+      </li>
       
     </ul>
     <form class="form-inline my-2 my-lg-0">
